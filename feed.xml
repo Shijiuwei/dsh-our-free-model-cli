@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dsh-our-free-model-cli</title>
+  <subtitle>Official architecture documentation and production specifications for dsh-our-free-model-cli</subtitle>
+  <link href="https://Shijiuwei.github.io/dsh-our-free-model-cli/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/dsh-our-free-model-cli/</id>
+  <updated>2026-11-16T20:19:08.955401+00:00</updated>
+  <entry>
+    <title>dsh-our-free-model-cli Architecture Overview</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/architecture.html</id>
+    <updated>2026-11-16T20:19:08.955401+00:00</updated>
+    <summary>Official architecture documentation and production specifications for dsh-our-free-model-cli</summary>
+  </entry>
+  <entry>
+    <title>Production Deployment Notes</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/deployment-notes.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/deployment-notes.html</id>
+    <updated>2026-11-16T20:19:08.955401+00:00</updated>
+    <summary>Practical integration guide for configuring dsh-our-free-model-cli across local and distributed environments.</summary>
+  </entry>
+  <entry>
+    <title>dsh-our-free-model-cli Technical Specifications</title>
+    <link href="https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/dsh-our-free-model-cli/docs/specifications.html</id>
+    <updated>2026-11-16T20:19:08.955401+00:00</updated>
+    <summary>Operational contracts, configuration defaults, and interface guarantees for dsh-our-free-model-cli.</summary>
+  </entry>
+</feed>
